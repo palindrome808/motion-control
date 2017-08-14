@@ -3,6 +3,7 @@
   *Arduino UNO R3
   *TB6600 Stepper Driver set to 1/8 micro-step
   *NEMA17 motor 2amp, 86oz/cm
+  *Sketch based on easy driver
   */
  
 int dirpin = 12; // lines 8-10 establish arduino pins that control stepper driver
